@@ -1,5 +1,5 @@
 # Hi there! Welcome to my Visualization Projects
-#### Here are some of the Data Analytics & Visualization projects I've done using some SQL[MySQL, PostgreSQL], PowerBI & Tableau.
+#### Here are some of the Data Analytics & Visualization projects I've done using some SQL[SSMS, MySQL, PostgreSQL], PowerBI & Tableau.
 You can find all these projects mentioned below in the same repository itself. 
 &ensp;
 
