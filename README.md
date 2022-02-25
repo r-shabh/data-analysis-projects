@@ -4,10 +4,11 @@ You can find all these projects mentioned below in the same repository itself.
 &ensp;
 
 # 1. [AtliQ Hardware Sales Analytics using PowerBI](https://github.com/r-shabh/data-analysis-projects/tree/main/AtliQ%20Sales%20Visualization%20by%20Power%20BI)
-Here's a quick [view](https://github.com/r-shabh/data-analysis-projects/blob/main/AtliQ%20Sales%20Visualization%20by%20Power%20BI/salesinsight.pdf) of the final report
+Here's a quick [view](https://github.com/r-shabh/data-analysis-projects/blob/main/AtliQ%20Sales%20Visualization%20by%20Power%20BI/salesinsight.pdf) of the Final report
 
 &ensp;
 
 # 2. [Personal Finance Dashboard using PowerBI](https://github.com/r-shabh/data-analysis-projects/tree/main/Personal%20Finance%20Dashboard)
-<!-- []()
- -->
+Here's a quick [view](https://github.com/r-shabh/data-analysis-projects/blob/main/Personal%20Finance%20Dashboard/Finance%20Dashboard.pdf) of the Final report.
+The last three visualizations are tooltips 
+ 
